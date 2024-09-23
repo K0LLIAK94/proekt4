@@ -97,7 +97,7 @@ body {
 }
 
 .intro {
-    margin: 0 20px 30px 20px;
+    margin: 0 20px 38px 20px;
 }
 
 .intri-heading {
@@ -159,17 +159,9 @@ body {
 
 .reasons-title {
     color: #000000;
+    padding-top: 40px;
     font-family: "EB Garamond"
-}
 
-.yellow-text {
-    color: #000000;
-    padding-left: 20px;
-    padding-right: 20px;
-    font-size: 17px;
-    line-height: 21px;
-    font-weight: 400;
-    margin: 0 0 24px 0;
 }
 
 .yellow-text {
@@ -189,8 +181,12 @@ body {
     line-height: 21px;
     font-weight: 400;
     padding-left: 20px;
+    padding-top: 22px;
+    padding-bottom: 22px;
 }
-
+.spisok {
+   padding-bottom: 40px;
+}
 .yellow-background {
     background-color: #FEE42A;
 }
@@ -264,6 +260,7 @@ body {
 }
 .card__title3 {
     font-size: 30px;
+    padding-top: 40px;
     font-family: "EB Garamond"
     
 }
